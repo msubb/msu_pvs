@@ -11,7 +11,6 @@ with open('CarParkPos', 'rb') as f:
 
 width, height = 50, 50
 
-
 def checkParkingSpace(imgPro):
 
     spaceCounter = 0

@@ -8,7 +8,7 @@ def printit():
   global pain
   pain = pain + 1
 
-  g = Github("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")
+  g = Github("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")
   repo = g.get_repo("msubb/parking")
   contents = repo.get_contents("index.html", )
   repo.update_file(contents.path, "test 1", """<!DOCTYPE html>
