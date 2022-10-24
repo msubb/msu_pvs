@@ -7,15 +7,18 @@ code without "_#" is example / starter code
 
 10/23/22 code uses:
 
-python
+## python
 
-  parkingspacepicker_v2
-  main_v2
-  sign
-  gist_upload_v0
-  
-arduino
-  
-  msuparking_v0
+parkingspacepicker_v2
 
-code is a work in progress
+main_v2
+
+sign
+
+gist_upload_v0
+  
+## arduino
+  
+msuparking_v0
+
+(please note all code is a work in progress)
