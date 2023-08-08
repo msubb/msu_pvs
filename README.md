@@ -22,3 +22,9 @@ gist_upload_v0
 msuparking_v0
 
 (please note all code is a work in progress)
+
+
+Relevent videos: 
+
+Parking Space Counter using OpenCV Python | Computer Vision:  https://youtu.be/caKnQlCMIYI
+
